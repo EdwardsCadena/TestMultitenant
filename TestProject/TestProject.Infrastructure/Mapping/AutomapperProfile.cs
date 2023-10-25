@@ -20,6 +20,9 @@ namespace TestProject.Infrastructure.Mapping
             CreateMap<User, UserDTOs>();
             CreateMap<UserDTOs, User>();
 
+            CreateMap<Organization, OrganizationDTOs>();
+            CreateMap<OrganizationDTOs, Organization>();
+
         }
     }
 }

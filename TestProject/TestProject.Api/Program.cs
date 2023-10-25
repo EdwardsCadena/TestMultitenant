@@ -6,6 +6,7 @@ using TestProject.Api.Middleware;
 using TestProject.Core.Interfaces;
 using TestProject.Infrastructure.Data;
 using TestProject.Infrastructure.Interfaces;
+using TestProject.Infrastructure.Multitenancy;
 using TestProject.Infrastructure.Repository;
 using TestProject.Infrastructure.Service;
 
@@ -22,9 +23,16 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 //Conxicon a la base de datos
+
+
+
 builder.Services.AddDbContext<TestContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("Test"));
+});
+builder.Services.AddDbContext<TestContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Test1"));
 });
 
 builder.Services.Configure<TestProject.Infrastructure.Options.PasswordOptions>(builder.Configuration.GetSection("PasswordOptions"));

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iuq3W71BNu/ZzsIGbIFYKyMA8dYRE/qYeHXvb62G60klUT34PCSxzDBPsUTAAj2L0U+x89XU0dkzz1sW8yblUA==",
+  "dgSpecHash": "/lR3lO3rl2/t2E8fG2UEwY9+FTSWCSW3ic384fA2Y/fPNYR4v2Jvz8ayHOWyKl+gtMHejnVnlSFekt/bdkK57w==",
   "success": true,
   "projectFilePath": "C:\\Users\\elect\\source\\repos\\TestProject\\TestProject.Api\\TestProject.Api.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,8 @@
     "C:\\Users\\elect\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\elect\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\elect\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.24\\microsoft.aspnetcore.authentication.jwtbearer.6.0.24.nupkg.sha512",
+    "C:\\Users\\elect\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.1\\microsoft.aspnetcore.http.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\elect\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.1\\microsoft.aspnetcore.http.features.2.1.1.nupkg.sha512",
     "C:\\Users\\elect\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\elect\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\elect\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",

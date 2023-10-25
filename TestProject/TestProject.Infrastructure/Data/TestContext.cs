@@ -23,8 +23,13 @@ namespace TestProject.Infrastructure.Data
         public virtual DbSet<User> Users { get; set; }
 
         public virtual DbSet<Produc> Products{ get; set; }
+        public virtual DbSet<Organization> Organization { get; set; }
+        public virtual DbSet<Tenant> Tenant { get; set; }
 
-        
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
 
     }
 }

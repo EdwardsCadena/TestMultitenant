@@ -20,5 +20,9 @@ namespace TestProject.Core.Entities
 
         public decimal Price { get; set; }
 
+        [ForeignKey("OrganizationId")]
+        public int OrganizationId { get; set; } // Clave foránea
+        public Organization Organization { get; set; } // Propiedad de navegación
+
     }
 }

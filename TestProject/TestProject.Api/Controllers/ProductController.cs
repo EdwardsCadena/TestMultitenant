@@ -55,7 +55,6 @@ namespace TestProject.Api.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Deleteproductdto(int id)
         {
-
             var result = await _productRepository.DeleteProduct(id);
             var deleteproductdto = new ApiResponse<bool>(result);
             return Ok(deleteproductdto);
