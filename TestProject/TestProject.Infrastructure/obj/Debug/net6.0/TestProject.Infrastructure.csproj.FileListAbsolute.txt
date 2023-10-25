@@ -1,0 +1,17 @@
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\bin\Debug\net6.0\TestProject.Infrastructure.deps.json
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\bin\Debug\net6.0\TestProject.Infrastructure.runtimeconfig.json
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\bin\Debug\net6.0\TestProject.Infrastructure.dll
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\bin\Debug\net6.0\TestProject.Infrastructure.pdb
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\bin\Debug\net6.0\TestProject.Core.dll
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\bin\Debug\net6.0\TestProject.Core.pdb
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\TestProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\TestProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\TestProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\TestProject.Infrastructure.AssemblyInfo.cs
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\TestProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\TestProject.Infrastructure.csproj.CopyComplete
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\TestProject.Infrastructure.dll
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\refint\TestProject.Infrastructure.dll
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\TestProject.Infrastructure.pdb
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\TestProject.Infrastructure.genruntimeconfig.cache
+C:\Users\elect\source\repos\TestProject\TestProject.Infrastructure\obj\Debug\net6.0\ref\TestProject.Infrastructure.dll

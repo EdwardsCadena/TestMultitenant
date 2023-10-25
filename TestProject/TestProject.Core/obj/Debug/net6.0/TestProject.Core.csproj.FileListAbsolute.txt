@@ -1,0 +1,11 @@
+C:\Users\elect\source\repos\TestProject\TestProject.Core\bin\Debug\net6.0\TestProject.Core.deps.json
+C:\Users\elect\source\repos\TestProject\TestProject.Core\bin\Debug\net6.0\TestProject.Core.dll
+C:\Users\elect\source\repos\TestProject\TestProject.Core\bin\Debug\net6.0\TestProject.Core.pdb
+C:\Users\elect\source\repos\TestProject\TestProject.Core\obj\Debug\net6.0\TestProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\source\repos\TestProject\TestProject.Core\obj\Debug\net6.0\TestProject.Core.AssemblyInfoInputs.cache
+C:\Users\elect\source\repos\TestProject\TestProject.Core\obj\Debug\net6.0\TestProject.Core.AssemblyInfo.cs
+C:\Users\elect\source\repos\TestProject\TestProject.Core\obj\Debug\net6.0\TestProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\elect\source\repos\TestProject\TestProject.Core\obj\Debug\net6.0\TestProject.Core.dll
+C:\Users\elect\source\repos\TestProject\TestProject.Core\obj\Debug\net6.0\refint\TestProject.Core.dll
+C:\Users\elect\source\repos\TestProject\TestProject.Core\obj\Debug\net6.0\TestProject.Core.pdb
+C:\Users\elect\source\repos\TestProject\TestProject.Core\obj\Debug\net6.0\ref\TestProject.Core.dll
